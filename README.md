@@ -10,4 +10,4 @@
 + 반응형 🚀
 + 깃허브 페이지 
 
-[프로젝트 링크](https://github.com/min-fa/Cafe25/settings/pages)
+[프로젝트 링크](https://min-fa.github.io/Cafe25/)
